@@ -1,5 +1,15 @@
-# 🧠 Machine Learning Tasks / Задания по машинному обучению  
-**SE 25/26 — Task Series 1**
+<p align="center">
+  <img src="banner.png" alt="Machine Learning Task Series 1 Banner" width="100%">
+</p>
+
+<h1 align="center">🎓 Machine Learning Task Series 1 — SE 25/26</h1>
+<h3 align="center">Kazan Federal University | Software Engineering</h3>
+
+<p align="center">
+  <b>Applied AI/ML/DL Solutions</b> using <b>Hugging Face</b>, <b>TensorFlow</b>, <b>PyTorch</b>, 
+  <b>YOLOv8</b> and <b>Llama.cpp</b> — all running <i>locally</i> on macOS (M2, 8GB RAM)
+</p>
+
 
 ---
 
